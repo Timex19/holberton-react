@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.41a7fd4b.css",
-    "main.js": "/static/js/main.b985c798.js",
-    "static/media/close-icon.png": "/static/media/close-icon.7ca727dcb0b4181eda25.png",
-    "static/media/logo.jpg": "/static/media/logo.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/index.html",
-    "main.41a7fd4b.css.map": "/static/css/main.41a7fd4b.css.map",
-    "main.b985c798.js.map": "/static/js/main.b985c798.js.map"
+    "main.css": "/holberton-react/static/css/main.41a7fd4b.css",
+    "main.js": "/holberton-react/static/js/main.72128958.js",
+    "static/media/close-icon.png": "/holberton-react/static/media/close-icon.7ca727dcb0b4181eda25.png",
+    "static/media/logo.jpg": "/holberton-react/static/media/logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/holberton-react/index.html",
+    "main.41a7fd4b.css.map": "/holberton-react/static/css/main.41a7fd4b.css.map",
+    "main.72128958.js.map": "/holberton-react/static/js/main.72128958.js.map"
   },
   "entrypoints": [
     "static/css/main.41a7fd4b.css",
-    "static/js/main.b985c798.js"
+    "static/js/main.72128958.js"
   ]
 }
